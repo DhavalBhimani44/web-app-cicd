@@ -28,7 +28,6 @@ Thumbs.db
 
 # Docker
 *.pid
-Dockerfile*
 
 # Terraform
 *.tfstate
