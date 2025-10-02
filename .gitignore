@@ -45,6 +45,3 @@ public/*.png
 public/*.jpg
 src/images/
 Project_WriteUp.docx
-
-# Ignore access scripts
-access.sh
