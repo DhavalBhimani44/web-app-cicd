@@ -16,8 +16,7 @@ spec:
         app: dhaval-app
     spec:
       containers:
-      - name: dhaval-container
-        image: 762233755467.dkr.ecr.ap-south-1.amazonaws.com/amazon-prime:latest
-        ports:
-        - containerPort: 3000
-...
+        - name: dhaval-container
+          image: 950564476479.dkr.ecr.ap-south-1.amazonaws.com/amazon-prime
+          ports:
+            - containerPort: 3000
